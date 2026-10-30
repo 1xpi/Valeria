@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="docs/images/valeria-main.png" alt="Valeria running on a Windows desktop" width="850">
+  <img width="1365" height="672" alt="image" src="https://github.com/user-attachments/assets/dc23b886-c8a7-44e1-b5ba-ec23bc3fbf53" />alt="Valeria running on a Windows desktop" width="850">
 </p>
 
 ## About
