@@ -1,7 +1,8 @@
 # Valeria
 
 <p align="center">
-  <img src="docs/images/valeria-logo.png" alt="Valeria" width="120">
+  <img src="<img width="1254" height="1254" alt="b594eb49-219f-4f98-bca6-56c6ca7557f7" src="https://github.com/user-attachments/assets/a6a05324-4456-458a-a5ff-d1d60d3abc4e" />
+" alt="Valeria" width="120">
 </p>
 
 <h3 align="center">Time, beautifully integrated.</h3>
