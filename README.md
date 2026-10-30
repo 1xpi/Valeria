@@ -19,11 +19,13 @@
 </p>
 
 ---
-
 <p align="center">
-  <img width="1365" height="672" alt="image" src="https://github.com/user-attachments/assets/dc23b886-c8a7-44e1-b5ba-ec23bc3fbf53" />alt="Valeria running on a Windows desktop" width="850">
+  <img
+    src="https://github.com/user-attachments/assets/dc23b886-c8a7-44e1-b5ba-ec23bc3fbf53"
+    alt="Valeria running on a Windows desktop"
+    width="850"
+  />
 </p>
-
 ## About
 
 Valeria is a Windows desktop clock application built around a simple idea: even the smallest elements of your desktop deserve thoughtful design.
