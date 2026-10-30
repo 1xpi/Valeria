@@ -48,26 +48,6 @@ Wallpaper-aware positioning and thoughtful desktop behavior help Valeria fit int
 ### Personalization
 Adjust the clock's appearance and available visual settings to complement your desktop setup.
 
-## Screenshots
-
-<p align="center">
-  <img src="docs/images/valeria-main.png" alt="Main clock interface" width="800">
-</p>
-
-<p align="center"><em>The Valeria desktop clock.</em></p>
-
-<p align="center">
-  <img src="docs/images/valeria-customization.png" alt="Valeria customization interface" width="800">
-</p>
-
-<p align="center"><em>Customize your clock's appearance.</em></p>
-
-<p align="center">
-  <img src="docs/images/valeria-settings.png" alt="Valeria settings interface" width="800">
-</p>
-
-<p align="center"><em>Configure your desktop clock.</em></p>
-
 ## Download
 
 **Get Valeria from the official GitHub Releases page.**
