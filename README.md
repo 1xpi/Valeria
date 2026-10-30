@@ -44,6 +44,8 @@ Built with:
 
 Found a bug or have an idea? Please go ahead and open an issue. Feedback and suggestions are always appreciated.
 
+https://discord.gg/fQVGgKU6y
+
 More updates and a community space are coming very soon.
 
 ---
