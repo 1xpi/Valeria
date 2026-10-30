@@ -1,7 +1,7 @@
 # Valeria
 
 <p align="center">
-  <img width="1254" src="https://github.com/user-attachments/assets/a6a05324-4456-458a-a5ff-d1d60d3abc4e" alt="Valeria app icon" />
+  <img src="https://github.com/user-attachments/assets/a6a05324-4456-458a-a5ff-d1d60d3abc4e" width="120" alt="Valeria icon">
 </p>
 
 <h3 align="center">Time, beautifully integrated.</h3>
