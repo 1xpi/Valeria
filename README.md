@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/1xpi/Valeria/releases"><strong>Download Valeria</strong></a>
   ·
-  <a href="https://discord.gg/engckPG3R">Discord Community</a>
+  <a href="[https://discord.gg/engckPG3R](https://discord.gg/fQVGgKU6y)">Discord Community</a>
   ·
   <a href="https://github.com/1xpi/Valeria/issues">Report an Issue</a>
 </p>
